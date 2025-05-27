@@ -1,0 +1,114 @@
+//For function of each setting, refer to the TopSky developer guide.
+
+//Scaling Settings, adjust these values to suit your screen and eyes!
+System_GUI_Scale_Windows=1.3
+System_GUI_Scale_Menus=1.2
+System_GUI_Scale_GlobalMenu=1.2
+System_GUI_Scale_Screen=1.1
+
+//System wide settings
+Setup_COOPANS=1
+Airspace_ASSR_Type=2
+Airspace_ASSR_AutoAssign_Type=2
+Track_HistoryDots=0
+System_MagModel_Type=2
+System_MagModel_Model=0
+System_MagModel_Year=2020
+System_RepHdg_Correction=2
+System_UseReportedGS=1
+System_RawVideo=0
+Label_Rev_Highlight_Delta_ETN=15
+MTCD_Distance_Holding=30
+Label_CFL_DefaultValue=1
+Label_DAPs=1
+Menu_DAPs=1
+Window_HoldList_MaxListItems=20
+FlightLeg_AutoShow=1
+FlightLeg_AssumeTime=3
+RwyAppLines_Auto=0
+Areas_NOTAM_Activation=1
+Airspace_ModeS_Code=1000
+Airspace_ModeS_Code_VFR=0
+Airspace_No_DUPE_Codes=7000
+Airspace_SIGMET_Areas=VABF
+Airspace_NOTAM_Add=VABF
+RDF_Mode=-1
+
+Areas_Altitude_Filtering=1
+Areas_Label_Font=EuroScope
+Areas_Label_FontSize=10
+Areas_PreActiveTime=1800
+Areas_Label_Name=0
+Areas_Label_MapText=0
+Areas_Label_Levels=1
+Areas_Label_Times=0
+Areas_Label_UserText=0
+Areas_NOTAM_Activation=1
+System_UseTSAborderHighlightColor=1
+
+//Colour settings
+Color_Active_Map_Type_1=87,87,164	//PURPLE
+Color_Active_Map_Type_2=80,162,74	//GREEN
+Color_Active_Map_Type_3=132,142,139	//D GREY
+Color_Active_Map_Type_4=200,53,18	//RED
+Color_Active_Map_Type_5=198,174,58	//MUSTARD
+Color_Active_Map_Type_6=90,90,90	//INFILL GREY
+Color_Active_Map_Type_10=222,49,99	//BRICKRED
+Color_Active_Map_Type_11=223,255,0  //YELLOW
+Color_Active_Map_Type_12=255,127,80  //ORANGE
+
+//CPDLC System Settings
+CPDLC_MinLevel=195
+CPDLC_Transfer=1
+CPDLC_CFL=1
+CPDLC_DCT=1
+CPDLC_AHDG=1
+CPDLC_ASP=1
+
+HTTP_NOTAM_Server=https://www.notams.faa.gov/
+HTTP_NOTAM_Page_Prefix=dinsQueryWeb/queryRetrievalMapAction.do?reportType=Raw&retrieveLocId=
+HTTP_SIGMET_Server=http://aviationweather.gov/
+HTTP_SIGMET_Page_Prefix=data/iffdp/
+HTTP_SIGMET_Pages=6443
+HTTP_SIGMET_Page_Suffix=.txt
+
+//MSAW System Settings
+MSAW_Buffer_IFR=100
+
+Label_Field18_Flag_Items=/STS,NEWBIE,NOOB,N00B,BEGINNER,ANFAENGER,DISABLED,DISABILITY,IMPAIRED,NEWBE,NEWBEE,FS2020
+
+//APW System Settings
+APW_Buffer_Lat_SepLevel=24500
+APW_Buffer_Lat_U=2.5
+APW_Buffer_Lat_L_IFR=1.5
+APW_Buffer_Lat_L_VFR=0
+
+//Weather Radar Settings
+WXR_Latitude=15
+WXR_Latitude_Max=19.78
+WXR_Latitude_Min=5.98
+WXR_Longitude=67.66
+WXR_Longitude_Max=81.97
+WXR_Longitude_Min=59.99
+WXR_Brightness=40
+WXR_Gain=85
+WXR_Echo_dBZ_Hi=20
+WXR_Echo_dBZ_Med=15
+WXR_Echo_dBZ_Lo=12 
+WXR_ImageSize=256
+
+Window_PDC_SetASSR=1
+Window_PDC_SetCFL=1
+Window_NOTAM=1,750,350,400
+Window_CPDLC_Current=1,1430,700
+Window_CPDLC_Setting=1,0,350
+Window_QNHTL=1,1700,300
+Window_LostList_Auto=0
+
+Color_Background=38,38,38
+Color_Border=19,19,19
+Color_WM_Bg=81,81,81
+Color_WM_Border=54,54,54
+Color_WM_Fg=200,200,200
+
+
