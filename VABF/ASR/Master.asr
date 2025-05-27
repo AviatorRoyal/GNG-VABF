@@ -1,47 +1,36 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
-ARTCC boundary:ACC - VOBL SFC - FL255:
-ARTCC boundary:ACC - VOBL/VOCI SFC - FL255:
-ARTCC boundary:ACC - VOCI SFC - FL255:
-ARTCC boundary:ACC - VOHS SFC - FL255:
-ARTCC boundary:ACC - VOML SFC - FL255:
-ARTCC boundary:ACC - VOMM_N SFC - FL255:
-ARTCC boundary:ACC - VOMM_S SFC - FL255:
-ARTCC boundary:ACC - VOMX SFC - FL355:
-ARTCC boundary:ACC - VOTV SFC - FL255:
-ARTCC boundary:BB - VOMF SFC - FL255:
-ARTCC boundary:BB - VOMF_W SFC - FL255:
-ARTCC high boundary:BB - VOMF FL255 - UNL:
-ARTCC high boundary:BB - VOMF_W FL255 - UNL:
-ARTCC high boundary:FIR - VCCF:
-ARTCC high boundary:FIR - VRMF:
-ARTCC high boundary:FIR - VYYF:
-ARTCC high boundary:FIR - WIIF:
-ARTCC high boundary:FIR - WMFC:
-ARTCC high boundary:UIR - OCU FL255 - UNL:
-ARTCC high boundary:UIR - UBLE FL255 - UNL:
-ARTCC high boundary:UIR - UBLW FL255 - UNL:
-ARTCC high boundary:UIR - UHS FL255 - UNL:
-ARTCC high boundary:UIR - UML FL255 - UNL:
-ARTCC high boundary:UIR - UMM FL255-UNL:
-ARTCC high boundary:UIR - UTV FL255 - UNL:
+SECTORFILE:F:\DEVs\GNG-VABF\VABF-Mumbai-Development_20250527071357-241301-0007.sct
+SECTORTITLE:VABF-Mumbai-Development_20250527071357-241301-0007.sct
+ARTCC high boundary:FIMM FIR:
+ARTCC high boundary:FSSS FIR:
+ARTCC high boundary:HCSM FIR:
+ARTCC high boundary:OOMM FIR:
+ARTCC high boundary:OPKR FIR:
+ARTCC high boundary:OYSC FIR:
+ARTCC high boundary:VAAH ACC:
+ARTCC high boundary:VABB ACC:
+ARTCC high boundary:VABB LC CTR:
+ARTCC high boundary:VABB U5:
+ARTCC high boundary:VABF OC CTR:
+ARTCC high boundary:VANP ACC:
+ARTCC high boundary:VECF FIR:
+ARTCC high boundary:VOMF FIR:
+ARTCC high boundary:VRMF FIR:
+Geo:VABF Landmark Coastline:
 High airways:A347:line
 High airways:A465:line
 High airways:A474:line
 High airways:B211:line
 High airways:B342:line
 High airways:B459:line
-High airways:B463:line
 High airways:B466:line
 High airways:G208:line
 High airways:G210:line
 High airways:G325:line
 High airways:G450:line
 High airways:G454:line
-High airways:G463:line
 High airways:G465:line
 High airways:G472:line
 High airways:J13:line
@@ -52,12 +41,10 @@ High airways:J17:line
 High airways:J18:line
 High airways:J19:line
 High airways:J2:line
-High airways:J26:line
 High airways:J4:line
 High airways:J5:line
 High airways:L301:line
 High airways:L505:line
-High airways:L507:line
 High airways:L510:line
 High airways:L518:line
 High airways:L524:line
@@ -74,11 +61,8 @@ High airways:M513:line
 High airways:M638:line
 High airways:M641:line
 High airways:M766:line
-High airways:M770:line
-High airways:M773:line
 High airways:N519:line
 High airways:N563:line
-High airways:N564:line
 High airways:N571:line
 High airways:N640:line
 High airways:N877:line
@@ -87,9 +71,7 @@ High airways:P570:line
 High airways:P574:line
 High airways:P627:line
 High airways:P628:line
-High airways:P646:line
 High airways:P756:line
-High airways:P761:line
 High airways:P762:line
 High airways:P895:line
 High airways:Q1:line
@@ -159,8 +141,6 @@ High airways:W101E:line
 High airways:W101W:line
 High airways:W10N:line
 High airways:W10S:line
-High airways:W111:line
-High airways:W112:line
 High airways:W114:line
 High airways:W115:line
 High airways:W116:line
@@ -172,8 +152,6 @@ High airways:W120:line
 High airways:W128:line
 High airways:W134:line
 High airways:W136:line
-High airways:W13N:line
-High airways:W13S:line
 High airways:W14:line
 High airways:W141:line
 High airways:W142:line
@@ -184,14 +162,10 @@ High airways:W148:line
 High airways:W15:line
 High airways:W153:line
 High airways:W163:line
-High airways:W16N:line
-High airways:W16S:line
 High airways:W17:line
 High airways:W18:line
 High airways:W19:line
 High airways:W20:line
-High airways:W21:line
-High airways:W23:line
 High airways:W26:line
 High airways:W27:line
 High airways:W28:line
@@ -213,78 +187,52 @@ High airways:W75:line
 High airways:W77:line
 High airways:W78:line
 High airways:W79:line
-High airways:W80:line
 High airways:W81:line
 High airways:W88:line
-High airways:W90:line
 High airways:W91:line
 High airways:W96:line
 High airways:W98:line
 High airways:Y510:line
 High airways:Z1:line
-High airways:Z2:line
 High airways:Z3:line
 High airways:Z4:line
 High airways:Z5:line
 High airways:Z610:line
 High airways:Z652:line
 High airways:Z749:line
-NDBs:AN:symbol
 NDBs:AT:symbol
-NDBs:AU:symbol
 NDBs:BAT:symbol
 NDBs:BR:symbol
-NDBs:BZ:symbol
 NDBs:CB:symbol
 NDBs:CC:symbol
 NDBs:CHB:symbol
 NDBs:CI:symbol
 NDBs:CP:symbol
-NDBs:CZ:symbol
 NDBs:DM:symbol
 NDBs:GB:symbol
 NDBs:GO:symbol
-NDBs:HA:symbol
-NDBs:HB:symbol
 NDBs:KP:symbol
-NDBs:MA:symbol
 NDBs:MD:symbol
-NDBs:MDS:symbol
 NDBs:MG:symbol
-NDBs:ML:symbol
-NDBs:MN:symbol
-NDBs:NT:symbol
 NDBs:OM:symbol
-NDBs:PA:symbol
-NDBs:PB:symbol
 NDBs:PO:symbol
-NDBs:PTN:symbol
 NDBs:RM:symbol
-NDBs:RY:symbol
 NDBs:SAI:symbol
-NDBs:SC:symbol
 NDBs:SL:symbol
 NDBs:SO:symbol
-NDBs:TD:symbol
-NDBs:TGO:symbol
 NDBs:TU:symbol
 NDBs:VN:symbol
 NDBs:VNA:symbol
-NDBs:WE:symbol
 NDBs:YD:symbol
 VORs:AAT:symbol
 VORs:AAU:symbol
-VORs:BAC:symbol
 VORs:BBB:symbol
 VORs:BBG:symbol
 VORs:BBI:symbol
 VORs:BBM:symbol
 VORs:BBZ:symbol
-VORs:BGO:symbol
 VORs:BIA:symbol
-VORs:BIB:symbol
 VORs:CCB:symbol
-VORs:CCN:symbol
 VORs:CIA:symbol
 VORs:CIB:symbol
 VORs:CLC:symbol
@@ -292,7 +240,6 @@ VORs:CNI:symbol
 VORs:GGB:symbol
 VORs:GGO:symbol
 VORs:HBL:symbol
-VORs:HGU:symbol
 VORs:HHY:symbol
 VORs:HIA:symbol
 VORs:KAT:symbol
@@ -300,26 +247,17 @@ VORs:KKP:symbol
 VORs:KNR:symbol
 VORs:MDI:symbol
 VORs:MLE:symbol
-VORs:MLH:symbol
 VORs:MML:symbol
 VORs:MMV:symbol
 VORs:MSR:symbol
 VORs:MTL:symbol
 VORs:NDD:symbol
-VORs:NPT:symbol
-VORs:PPB:symbol
 VORs:PPN:symbol
-VORs:PTN:symbol
 VORs:RJM:symbol
-VORs:RML:symbol
 VORs:SRD:symbol
-VORs:TDE:symbol
-VORs:TGU:symbol
 VORs:TTP:symbol
 VORs:TTR:symbol
 VORs:TVM:symbol
-VORs:VSP:symbol
-VORs:VVZ:symbol
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -333,7 +271,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:India vACC
-WINDOWAREA:2.987986:63.972893:21.921986:100.606091
+WINDOWAREA:8.251707:52.899534:27.453680:89.532732
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
