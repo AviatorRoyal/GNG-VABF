@@ -1,6 +1,8 @@
 DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
+SECTORFILE:F:\DEVs\GNG-VABF\VABF-Mumbai-Development_20250527071357-241301-0007.sct
+SECTORTITLE:VABF-Mumbai-Development_20250527071357-241301-0007.sct
 Airports:VANP:name
 Airports:VANP:symbol
 Free Text:VANP GroundLayout\1:freetext
@@ -26,7 +28,6 @@ Free Text:VANP GroundLayout\A:freetext
 Free Text:VANP GroundLayout\B1:freetext
 Free Text:VANP GroundLayout\B2:freetext
 Free Text:VANP GroundLayout\C1:freetext
-Free Text:VANP GroundLayout\C1:freetext
 Free Text:VANP GroundLayout\C2:freetext
 Free Text:VANP GroundLayout\IPB:freetext
 Free Text:VANP GroundLayout\L:freetext
@@ -49,6 +50,31 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:310.00000
 TAGFAMILY:India vACC
-WINDOWAREA:21.085060:79.025331:21.105334:79.066592
+WINDOWAREA:21.079946:79.016130:21.106981:79.067706
 PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Afterglow:1
 PLUGIN:vSMR:Airport:VANP
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

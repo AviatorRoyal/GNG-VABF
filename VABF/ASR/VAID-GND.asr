@@ -1,12 +1,29 @@
 DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
+SECTORFILE:F:\DEVs\GNG-VABF\VABF-Mumbai-Development_20250527071357-241301-0007.sct
+SECTORTITLE:VABF-Mumbai-Development_20250527071357-241301-0007.sct
 Airports:VAID:name
 Airports:VAID:symbol
 Free Text:VAID GroundLayout\1:freetext
 Free Text:VAID GroundLayout\10:freetext
 Free Text:VAID GroundLayout\11:freetext
+Free Text:VAID GroundLayout\12:freetext
+Free Text:VAID GroundLayout\13:freetext
+Free Text:VAID GroundLayout\14:freetext
+Free Text:VAID GroundLayout\15:freetext
+Free Text:VAID GroundLayout\16:freetext
+Free Text:VAID GroundLayout\17:freetext
+Free Text:VAID GroundLayout\18:freetext
+Free Text:VAID GroundLayout\19:freetext
 Free Text:VAID GroundLayout\2:freetext
+Free Text:VAID GroundLayout\20:freetext
+Free Text:VAID GroundLayout\21:freetext
+Free Text:VAID GroundLayout\22:freetext
+Free Text:VAID GroundLayout\23:freetext
+Free Text:VAID GroundLayout\24:freetext
+Free Text:VAID GroundLayout\25:freetext
+Free Text:VAID GroundLayout\26:freetext
 Free Text:VAID GroundLayout\3:freetext
 Free Text:VAID GroundLayout\4:freetext
 Free Text:VAID GroundLayout\5:freetext
@@ -23,6 +40,11 @@ Free Text:VAID GroundLayout\D:freetext
 Free Text:VAID GroundLayout\D1:freetext
 Free Text:VAID GroundLayout\E:freetext
 Free Text:VAID GroundLayout\F:freetext
+Free Text:VAID GroundLayout\G:freetext
+Free Text:VAID GroundLayout\GA Parking:freetext
+Free Text:VAID GroundLayout\H:freetext
+Free Text:VAID GroundLayout\H1:freetext
+Free Text:VAID GroundLayout\H3:freetext
 Free Text:VAID GroundLayout\Isolation Bay:freetext
 Geo:VAID Groundlayout:
 Regions:VAID GroundLayout:polygon
@@ -41,7 +63,32 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:20.00000
-TAGFAMILY:India vACC
-WINDOWAREA:22.710657:75.775412:22.730931:75.816673
+TAGFAMILY:India vACC - APP
+WINDOWAREA:22.709980:75.775412:22.731608:75.816673
 PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Afterglow:1
 PLUGIN:vSMR:Airport:VAID
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

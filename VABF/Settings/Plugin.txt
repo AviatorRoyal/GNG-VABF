@@ -1,7 +1,7 @@
 PLUGINS
-Holding List:ACList/Holding list/m_Visible:1
-Holding List:ACList/Holding list/m_X:1681
-Holding List:ACList/Holding list/m_Y:501
+Holding List:ACList/Holding list/m_Visible:0
+Holding List:ACList/Holding list/m_X:1041
+Holding List:ACList/Holding list/m_Y:521
 Holding List:ACList/Holding list/m_LineNumber:0
 Holding List:ACList/Holding list/m_Resizable:1
 Holding List:ACList/Holding list/m_OrderingColumn:1

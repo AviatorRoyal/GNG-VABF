@@ -1,6 +1,8 @@
 DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
+SECTORFILE:F:\DEVs\GNG-VABF\VABF-Mumbai-Development_20250527071357-241301-0007.sct
+SECTORTITLE:VABF-Mumbai-Development_20250527071357-241301-0007.sct
 Airports:VABB:name
 Airports:VABB:symbol
 Free Text:VABB GroundLayout\09:freetext
@@ -61,11 +63,7 @@ Free Text:VABB GroundLayout\Cargo Building:freetext
 Free Text:VABB GroundLayout\Cargo Terminal:freetext
 Free Text:VABB GroundLayout\D1:freetext
 Free Text:VABB GroundLayout\E:freetext
-Free Text:VABB GroundLayout\E:freetext
 Free Text:VABB GroundLayout\E1:freetext
-Free Text:VABB GroundLayout\E1:freetext
-Free Text:VABB GroundLayout\E1:freetext
-Free Text:VABB GroundLayout\E10:freetext
 Free Text:VABB GroundLayout\E10:freetext
 Free Text:VABB GroundLayout\E3:freetext
 Free Text:VABB GroundLayout\E4:freetext
@@ -73,7 +71,6 @@ Free Text:VABB GroundLayout\E5:freetext
 Free Text:VABB GroundLayout\E7:freetext
 Free Text:VABB GroundLayout\E8:freetext
 Free Text:VABB GroundLayout\E9:freetext
-Free Text:VABB GroundLayout\F1:freetext
 Free Text:VABB GroundLayout\F1:freetext
 Free Text:VABB GroundLayout\F3:freetext
 Free Text:VABB GroundLayout\F4:freetext
@@ -87,10 +84,6 @@ Free Text:VABB GroundLayout\G4R:freetext
 Free Text:VABB GroundLayout\G5:freetext
 Free Text:VABB GroundLayout\General Aviation:freetext
 Free Text:VABB GroundLayout\H:freetext
-Free Text:VABB GroundLayout\H:freetext
-Free Text:VABB GroundLayout\H:freetext
-Free Text:VABB GroundLayout\H:freetext
-Free Text:VABB GroundLayout\H1:freetext
 Free Text:VABB GroundLayout\H1:freetext
 Free Text:VABB GroundLayout\J1:freetext
 Free Text:VABB GroundLayout\J10:freetext
@@ -117,13 +110,10 @@ Free Text:VABB GroundLayout\K6:freetext
 Free Text:VABB GroundLayout\K6L:freetext
 Free Text:VABB GroundLayout\K6R:freetext
 Free Text:VABB GroundLayout\L:freetext
-Free Text:VABB GroundLayout\L:freetext
 Free Text:VABB GroundLayout\L1:freetext
 Free Text:VABB GroundLayout\L3:freetext
 Free Text:VABB GroundLayout\L4:freetext
 Free Text:VABB GroundLayout\M:freetext
-Free Text:VABB GroundLayout\M:freetext
-Free Text:VABB GroundLayout\M4:freetext
 Free Text:VABB GroundLayout\M4:freetext
 Free Text:VABB GroundLayout\M5:freetext
 Free Text:VABB GroundLayout\M6:freetext
@@ -131,14 +121,6 @@ Free Text:VABB GroundLayout\M7:freetext
 Free Text:VABB GroundLayout\M8:freetext
 Free Text:VABB GroundLayout\Maintenance Area:freetext
 Free Text:VABB GroundLayout\N:freetext
-Free Text:VABB GroundLayout\N:freetext
-Free Text:VABB GroundLayout\N:freetext
-Free Text:VABB GroundLayout\N:freetext
-Free Text:VABB GroundLayout\N:freetext
-Free Text:VABB GroundLayout\N1:freetext
-Free Text:VABB GroundLayout\N1:freetext
-Free Text:VABB GroundLayout\N1:freetext
-Free Text:VABB GroundLayout\N1:freetext
 Free Text:VABB GroundLayout\N1:freetext
 Free Text:VABB GroundLayout\N10:freetext
 Free Text:VABB GroundLayout\N11:freetext
@@ -150,7 +132,6 @@ Free Text:VABB GroundLayout\N6:freetext
 Free Text:VABB GroundLayout\N7:freetext
 Free Text:VABB GroundLayout\N8:freetext
 Free Text:VABB GroundLayout\N9:freetext
-Free Text:VABB GroundLayout\P:freetext
 Free Text:VABB GroundLayout\P:freetext
 Free Text:VABB GroundLayout\Q:freetext
 Free Text:VABB GroundLayout\R1:freetext
@@ -168,7 +149,6 @@ Free Text:VABB GroundLayout\S2:freetext
 Free Text:VABB GroundLayout\S2R:freetext
 Free Text:VABB GroundLayout\S3:freetext
 Free Text:VABB GroundLayout\S3R:freetext
-Free Text:VABB GroundLayout\T:freetext
 Free Text:VABB GroundLayout\T:freetext
 Free Text:VABB GroundLayout\Terminal 1:freetext
 Free Text:VABB GroundLayout\Terminal 2:freetext
@@ -234,8 +214,6 @@ Free Text:VABB GroundLayout\W1:freetext
 Free Text:VABB GroundLayout\W4:freetext
 Free Text:VABB GroundLayout\W5:freetext
 Free Text:VABB GroundLayout\W6:freetext
-Free Text:VABB GroundLayout\W6:freetext
-Free Text:VABB GroundLayout\W7:freetext
 Free Text:VABB GroundLayout\W7:freetext
 Free Text:VABB GroundLayout\Y1:freetext
 Free Text:VABB GroundLayout\Y3:freetext
@@ -258,6 +236,31 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:India vACC
-WINDOWAREA:19.077156:72.836571:19.102498:72.888147
+WINDOWAREA:19.076823:72.840097:19.103857:72.891673
 PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Afterglow:1
 PLUGIN:vSMR:Airport:VABB
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

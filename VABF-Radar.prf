@@ -6,7 +6,7 @@ ASRFastKeys	5	\VABF\ASR\VANP-GND.asr
 ASRFastKeys	6	\VABF\ASR\VABP-GND.asr
 ASRFastKeys	7	\VABF\ASR\VAID-GND.asr
 ASRFastKeys	8	\VABF\ASR\VASU-GND.asr
-ASRFastKeys	9	\VABF\ASR\VAAU-GND.asr
+ASRFastKeys	9	\VABF\ASR\VANM-GND.asr
 Plugins	Plugin0	\VABF\Plugins\AFVEuroscopeBridge\AfvEuroScopeBridge.dll
 Plugins	Plugin1	\VABF\Plugins\DiscordEuroscope\DiscordEuroscope.dll
 Plugins	Plugin2	\VABF\Plugins\RDF\RDFPlugin.dll

@@ -1,17 +1,34 @@
 DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
+SECTORFILE:F:\DEVs\GNG-VABF\VABF-Mumbai-Development_20250527071357-241301-0007.sct
+SECTORTITLE:VABF-Mumbai-Development_20250527071357-241301-0007.sct
 Airports:VASU:name
 Airports:VASU:symbol
 Free Text:VASU GroundLayout\1:freetext
+Free Text:VASU GroundLayout\10:freetext
+Free Text:VASU GroundLayout\14:freetext
+Free Text:VASU GroundLayout\15:freetext
 Free Text:VASU GroundLayout\2:freetext
-Free Text:VASU GroundLayout\2A:freetext
+Free Text:VASU GroundLayout\21:freetext
 Free Text:VASU GroundLayout\3:freetext
-Free Text:VASU GroundLayout\3A:freetext
 Free Text:VASU GroundLayout\4:freetext
 Free Text:VASU GroundLayout\5:freetext
+Free Text:VASU GroundLayout\6:freetext
+Free Text:VASU GroundLayout\7:freetext
+Free Text:VASU GroundLayout\8:freetext
+Free Text:VASU GroundLayout\9:freetext
 Free Text:VASU GroundLayout\A:freetext
 Free Text:VASU GroundLayout\B:freetext
+Free Text:VASU GroundLayout\C:freetext
+Free Text:VASU GroundLayout\C1:freetext
+Free Text:VASU GroundLayout\C2:freetext
+Free Text:VASU GroundLayout\C3:freetext
+Free Text:VASU GroundLayout\C4:freetext
+Free Text:VASU GroundLayout\D:freetext
+Free Text:VASU GroundLayout\E:freetext
+Free Text:VASU GroundLayout\E1:freetext
+Free Text:VASU GroundLayout\GA Parking:freetext
 Free Text:VASU GroundLayout\IPB:freetext
 Geo:VASU Groundlayout:
 Regions:VASU GroundLayout:polygon
@@ -30,7 +47,32 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:45.00000
-TAGFAMILY:India vACC
-WINDOWAREA:21.108561:72.725463:21.124780:72.758472
+TAGFAMILY:India vACC - APP
+WINDOWAREA:21.108019:72.725463:21.125322:72.758472
 PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Afterglow:1
 PLUGIN:vSMR:Airport:VASU
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

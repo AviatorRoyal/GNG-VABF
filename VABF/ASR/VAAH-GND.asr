@@ -1,25 +1,10 @@
 DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
+SECTORFILE:F:\DEVs\GNG-VABF\VABF-Mumbai-Development_20250527071357-241301-0007.sct
+SECTORTITLE:VABF-Mumbai-Development_20250527071357-241301-0007.sct
 Airports:VAAH:name
 Airports:VAAH:symbol
-Free Text:VAAH GroundLayout\1:freetext
-Free Text:VAAH GroundLayout\10:freetext
-Free Text:VAAH GroundLayout\11:freetext
-Free Text:VAAH GroundLayout\12:freetext
-Free Text:VAAH GroundLayout\13:freetext
-Free Text:VAAH GroundLayout\14:freetext
-Free Text:VAAH GroundLayout\15:freetext
-Free Text:VAAH GroundLayout\16:freetext
-Free Text:VAAH GroundLayout\17:freetext
-Free Text:VAAH GroundLayout\18:freetext
-Free Text:VAAH GroundLayout\19:freetext
-Free Text:VAAH GroundLayout\2:freetext
-Free Text:VAAH GroundLayout\20:freetext
-Free Text:VAAH GroundLayout\21:freetext
-Free Text:VAAH GroundLayout\22:freetext
-Free Text:VAAH GroundLayout\23:freetext
-Free Text:VAAH GroundLayout\24:freetext
 Free Text:VAAH GroundLayout\25:freetext
 Free Text:VAAH GroundLayout\25A:freetext
 Free Text:VAAH GroundLayout\26:freetext
@@ -30,55 +15,88 @@ Free Text:VAAH GroundLayout\28:freetext
 Free Text:VAAH GroundLayout\28A:freetext
 Free Text:VAAH GroundLayout\29:freetext
 Free Text:VAAH GroundLayout\29A:freetext
-Free Text:VAAH GroundLayout\3:freetext
 Free Text:VAAH GroundLayout\30:freetext
 Free Text:VAAH GroundLayout\30A:freetext
 Free Text:VAAH GroundLayout\31:freetext
+Free Text:VAAH GroundLayout\31A:freetext
+Free Text:VAAH GroundLayout\31L:freetext
+Free Text:VAAH GroundLayout\31R:freetext
 Free Text:VAAH GroundLayout\32:freetext
+Free Text:VAAH GroundLayout\32L:freetext
+Free Text:VAAH GroundLayout\32R:freetext
 Free Text:VAAH GroundLayout\33:freetext
 Free Text:VAAH GroundLayout\34:freetext
+Free Text:VAAH GroundLayout\34L:freetext
+Free Text:VAAH GroundLayout\34R:freetext
 Free Text:VAAH GroundLayout\35:freetext
 Free Text:VAAH GroundLayout\36:freetext
-Free Text:VAAH GroundLayout\4:freetext
-Free Text:VAAH GroundLayout\5:freetext
-Free Text:VAAH GroundLayout\6:freetext
-Free Text:VAAH GroundLayout\7:freetext
-Free Text:VAAH GroundLayout\8:freetext
-Free Text:VAAH GroundLayout\9:freetext
+Free Text:VAAH GroundLayout\36L:freetext
+Free Text:VAAH GroundLayout\36R:freetext
+Free Text:VAAH GroundLayout\37:freetext
+Free Text:VAAH GroundLayout\38:freetext
+Free Text:VAAH GroundLayout\39:freetext
+Free Text:VAAH GroundLayout\40:freetext
+Free Text:VAAH GroundLayout\41:freetext
+Free Text:VAAH GroundLayout\42:freetext
+Free Text:VAAH GroundLayout\43:freetext
+Free Text:VAAH GroundLayout\70:freetext
+Free Text:VAAH GroundLayout\70L:freetext
+Free Text:VAAH GroundLayout\70R:freetext
+Free Text:VAAH GroundLayout\71:freetext
+Free Text:VAAH GroundLayout\71L:freetext
+Free Text:VAAH GroundLayout\71R:freetext
+Free Text:VAAH GroundLayout\72:freetext
+Free Text:VAAH GroundLayout\73:freetext
+Free Text:VAAH GroundLayout\74:freetext
+Free Text:VAAH GroundLayout\75:freetext
+Free Text:VAAH GroundLayout\76:freetext
+Free Text:VAAH GroundLayout\77:freetext
+Free Text:VAAH GroundLayout\78:freetext
+Free Text:VAAH GroundLayout\79:freetext
+Free Text:VAAH GroundLayout\80:freetext
+Free Text:VAAH GroundLayout\81:freetext
+Free Text:VAAH GroundLayout\82:freetext
+Free Text:VAAH GroundLayout\83:freetext
+Free Text:VAAH GroundLayout\84:freetext
+Free Text:VAAH GroundLayout\85:freetext
+Free Text:VAAH GroundLayout\86:freetext
+Free Text:VAAH GroundLayout\87:freetext
+Free Text:VAAH GroundLayout\88:freetext
+Free Text:VAAH GroundLayout\89:freetext
+Free Text:VAAH GroundLayout\90:freetext
+Free Text:VAAH GroundLayout\91:freetext
+Free Text:VAAH GroundLayout\92:freetext
+Free Text:VAAH GroundLayout\93:freetext
+Free Text:VAAH GroundLayout\94:freetext
 Free Text:VAAH GroundLayout\A:freetext
-Free Text:VAAH GroundLayout\A:freetext
-Free Text:VAAH GroundLayout\B:freetext
 Free Text:VAAH GroundLayout\B:freetext
 Free Text:VAAH GroundLayout\C:freetext
+Free Text:VAAH GroundLayout\CARGO T3:freetext
 Free Text:VAAH GroundLayout\D:freetext
+Free Text:VAAH GroundLayout\DOMESTIC BLDG T1:freetext
 Free Text:VAAH GroundLayout\F:freetext
 Free Text:VAAH GroundLayout\G:freetext
+Free Text:VAAH GroundLayout\GUJSAIL HANGER:freetext
 Free Text:VAAH GroundLayout\H:freetext
+Free Text:VAAH GroundLayout\IAF:freetext
+Free Text:VAAH GroundLayout\INTERNATIONAL BLDG T2:freetext
 Free Text:VAAH GroundLayout\K:freetext
-Free Text:VAAH GroundLayout\L:freetext
-Free Text:VAAH GroundLayout\L:freetext
-Free Text:VAAH GroundLayout\L:freetext
-Free Text:VAAH GroundLayout\L:freetext
 Free Text:VAAH GroundLayout\L1:freetext
-Free Text:VAAH GroundLayout\L2:freetext
+Free Text:VAAH GroundLayout\L10:freetext
 Free Text:VAAH GroundLayout\L3:freetext
-Free Text:VAAH GroundLayout\L3:freetext
 Free Text:VAAH GroundLayout\L4:freetext
-Free Text:VAAH GroundLayout\L4:freetext
-Free Text:VAAH GroundLayout\L4:freetext
-Free Text:VAAH GroundLayout\L5:freetext
 Free Text:VAAH GroundLayout\L5:freetext
 Free Text:VAAH GroundLayout\L6:freetext
 Free Text:VAAH GroundLayout\L7:freetext
 Free Text:VAAH GroundLayout\L8:freetext
 Free Text:VAAH GroundLayout\L9:freetext
-Free Text:VAAH GroundLayout\L9:freetext
+Free Text:VAAH GroundLayout\M:freetext
 Free Text:VAAH GroundLayout\P:freetext
-Free Text:VAAH GroundLayout\P:freetext
-Free Text:VAAH GroundLayout\R:freetext
-Free Text:VAAH GroundLayout\R:freetext
-Free Text:VAAH GroundLayout\R:freetext
-Free Text:VAAH GroundLayout\R:freetext
+Free Text:VAAH GroundLayout\R4:freetext
+Free Text:VAAH GroundLayout\T1:freetext
+Free Text:VAAH GroundLayout\T3:freetext
+Free Text:VAAH GroundLayout\T4:freetext
+Free Text:VAAH GroundLayout\T5:freetext
 Geo:VAAH Groundlayout:
 Regions:VAAH GroundLayout:polygon
 VORs:AAE:frequency
@@ -96,7 +114,32 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:45.00000
-TAGFAMILY:India vACC
-WINDOWAREA:23.068444:72.605104:23.092463:72.653988
+TAGFAMILY:India vACC - APP
+WINDOWAREA:23.067642:72.605104:23.093265:72.653988
 PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Afterglow:1
 PLUGIN:vSMR:Airport:VAAH
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

@@ -1,19 +1,17 @@
 DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
+SECTORFILE:F:\DEVs\GNG-VABF\VABF-Mumbai-Development_20250527071357-241301-0007.sct
+SECTORTITLE:VABF-Mumbai-Development_20250527071357-241301-0007.sct
 Airports:VABP:name
 Airports:VABP:symbol
-Free Text:VABP GroundLayout\1:freetext
 Free Text:VABP GroundLayout\1:freetext
 Free Text:VABP GroundLayout\10:freetext
 Free Text:VABP GroundLayout\11:freetext
 Free Text:VABP GroundLayout\12:freetext
 Free Text:VABP GroundLayout\13:freetext
 Free Text:VABP GroundLayout\2:freetext
-Free Text:VABP GroundLayout\2:freetext
 Free Text:VABP GroundLayout\3:freetext
-Free Text:VABP GroundLayout\3:freetext
-Free Text:VABP GroundLayout\4:freetext
 Free Text:VABP GroundLayout\4:freetext
 Free Text:VABP GroundLayout\5:freetext
 Free Text:VABP GroundLayout\6:freetext
@@ -24,7 +22,6 @@ Free Text:VABP GroundLayout\A:freetext
 Free Text:VABP GroundLayout\B:freetext
 Free Text:VABP GroundLayout\C:freetext
 Free Text:VABP GroundLayout\D:freetext
-Free Text:VABP GroundLayout\E:freetext
 Free Text:VABP GroundLayout\E:freetext
 Free Text:VABP GroundLayout\F:freetext
 Free Text:VABP GroundLayout\G:freetext
@@ -47,8 +44,33 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:0.00000
-TAGFAMILY:India vACC
-WINDOWAREA:23.279725:77.314349:23.299998:77.355610
+DisplayRotation:-0.00000
+TAGFAMILY:India vACC - APP
+WINDOWAREA:23.279048:77.314349:23.300675:77.355610
 PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Afterglow:1
 PLUGIN:vSMR:Airport:VABP
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200
