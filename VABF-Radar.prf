@@ -21,6 +21,12 @@ Plugins	Plugin5Display0	SMR radar display
 Plugins	Plugin5Display1	Standard ES radar screen
 Plugins	Plugin6	\VABF\Plugins\HoldingList\HoldingListPlugin.dll
 Plugins	Plugin6Display0	Standard ES radar screen
+Plugins	Plugin7	\VABF\Plugins\TopSky\TopSky.dll
+Plugins	Plugin7Display0	Standard ES radar screen
+Plugins	Plugin7Display1	SMR radar display
+Plugins	Plugin8	\VABF\Plugins\VCH.dll
+Plugins	Plugin8Display0	SMR radar display
+Plugins	Plugin8Display1	Standard ES radar screen
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
 Settings	Settingsfile	\VABF\Settings\General.txt
